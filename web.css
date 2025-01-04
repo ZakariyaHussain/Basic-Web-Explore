@@ -11,14 +11,16 @@
     background-size: cover;
 }
 .content{
+    background-color: rgba(0, 0, 0, 0.6);
     text-align: center;
-    padding: 160px 0;
+    line-height: 400px;
+    height: 400px;
     font-family: 'Courier New', Courier, monospace;
     font-size: 80px;
     color: rgb(199, 22, 9);
 }
 .name{
-    color: darkblue;
+    color: rgb(251, 255, 0);
     font-style: italic;
 }
 #body{
